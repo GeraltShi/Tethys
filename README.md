@@ -20,7 +20,7 @@ Cocos2dx C++, Qt C++, OpenGL, Naive CMD
 |--|:----------:|:-:|--------|
 |HUD|●|●|position, opacity, display pattern|
 |Menu|●|●|position, items|
-|BGM/Sound|○|●|volumn, on/off, trigger|
+|BGM/Sound|○|●|volume, on/off, trigger|
 
 ### IV. Scene
 |--|Skin/Texture|EFX|Comments|
